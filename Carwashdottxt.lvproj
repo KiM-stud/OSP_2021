@@ -14,7 +14,9 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="SubVI" Type="Folder">
+			<Item Name="Default_Wash.vi" Type="VI" URL="../SubVI/Default_Wash.vi"/>
 			<Item Name="Init_UI_Cluster.vi" Type="VI" URL="../SubVI/Init_UI_Cluster.vi"/>
+			<Item Name="Stop_UI_Cluster.vi" Type="VI" URL="../SubVI/Stop_UI_Cluster.vi"/>
 		</Item>
 		<Item Name="Typedef Definition" Type="Folder">
 			<Item Name="UI_Ref_Cluster.ctl" Type="VI" URL="../Type_Def/UI_Ref_Cluster.ctl"/>
