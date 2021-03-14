@@ -19,6 +19,7 @@
 			<Item Name="Input_to_Array.vi" Type="VI" URL="../SubVI/Input_to_Array.vi"/>
 			<Item Name="Stop_UI_Cluster.vi" Type="VI" URL="../SubVI/Stop_UI_Cluster.vi"/>
 		</Item>
+		<Item Name="Choosed_Input_to_Array.vi" Type="VI" URL="../SubVI/Choosed_Input_to_Array.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
